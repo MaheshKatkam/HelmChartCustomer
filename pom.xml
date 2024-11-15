@@ -62,6 +62,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>helmchart-customer</finalName>
 	</build>
 
 </project>
